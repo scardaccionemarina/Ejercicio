@@ -1,0 +1,82 @@
+img
+{
+    height: 80px;
+    width: 140px;
+}
+
+
+#uno
+{
+    display: flex;
+    width: 98%;
+    height: 40px;
+    padding-right: 12px;
+    background-color:grey;  
+    justify-content: flex-end;
+    align-items: center;
+    font-size: small;
+}
+
+a:visited
+{
+color: rgb(64, 50, 159);
+}
+
+#html
+{
+display: flex;
+padding: 10px; 
+width: 90px;
+height: 90px;
+position: relative;
+margin-left: 20%;
+}
+
+
+#css3
+{
+width: 90px;
+height: 90px;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+bottom: 50px;
+margin-left: 10%;
+}
+
+#dos, #tres
+{  
+width: 80%;
+height: 90px;
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+margin-left: 10% ;
+margin-right: 20%;
+}
+
+#dos
+{position: relative;
+bottom:40px;
+}
+
+#tres
+{position: relative;
+bottom: 80px;
+}
+
+#cuatro
+{
+display: flex;
+width: 98%;
+height: 20px;
+padding-right: 12px;
+background-color:grey;  
+align-items:center;
+justify-content:center;
+font-size: small;
+position: relative;
+bottom: 70px;
+word-spacing: 5px;
+}
